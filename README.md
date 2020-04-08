@@ -2,7 +2,7 @@
 
 预览图：
 
-![Pure6f](demo.png)
+![Pure6f](screenshot.png)
 
 #基于pagecho的maupassant二次开发，感谢pagecho在GitHub无私开源
 
