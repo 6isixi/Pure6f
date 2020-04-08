@@ -2,10 +2,10 @@
 /**
  * 简单的响应式模板，简洁不简单
  * 
- * @package Hegemonical
- * @author 六艾巳玺
- * @version 1.4 Final V1
- * @link https://weibo.com/6iliuruiqi
+ * @package Pure6f
+ * @author Kurococ
+ * @version 0.1
+ * @link https://github.com/6isixi/Pure6f
  */
  $this->need('header.php');
  ?>
